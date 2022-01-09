@@ -31,3 +31,5 @@ fields:
     name: column
     label: Column
     template: text-column
+pages:
+- _posts/Test post.md
