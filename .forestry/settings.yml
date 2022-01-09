@@ -12,9 +12,6 @@ sections:
   label: Posts
   create: all
   new_doc_ext: md
-  templates:
-  - page-builder
-  - default
 - type: directory
   path: ''
   label: Pages
