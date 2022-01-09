@@ -11,6 +11,9 @@ sections:
 - type: jekyll-posts
   label: Posts
   create: all
+  new_doc_ext: ".md"
+  templates:
+  - default
 - type: directory
   path: ''
   label: Pages
